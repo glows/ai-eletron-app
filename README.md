@@ -1,7 +1,7 @@
 # ai-eletron-app
 
 
-用于Wisper turbo 客户端开发
+## 用于Wisper turbo 客户端开发
 
 An Electron application with React and TypeScript
 
